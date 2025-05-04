@@ -41,7 +41,7 @@ house_price_prediction/
    ```
 3. Анализ в Jupyter:
    ```bash
-   jupyter notebook notebooks/analysis.ipynb
+   jupyter notebook notebook/analysis.ipynb
    ```
 
 ## 📊 Результаты
